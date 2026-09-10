@@ -16,9 +16,11 @@ Takushoku University, Graduate School of International Cooperation
 
 ### Academic Societies
 * **JAAS** — Japan Association for Asian Studies
-       (アジア政経学会)
+
+(アジア政経学会)
 * **JATS** — Japan Association for Taiwan Studies
-       (日本台湾学会)
+
+(日本台湾学会)
 
 ### Education
 * **M.A. Student in Security Studies** | Takushoku University *(Present)*
