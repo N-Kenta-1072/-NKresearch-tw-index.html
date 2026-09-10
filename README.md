@@ -1,4 +1,4 @@
-# Kenta NOZAKI | 野崎 健太
+# NOZAKI,Kenta
 
 ![](https://img.shields.io/badge/Takushoku_Univ.-Graduate_School-1B365D?style=flat-square)
 ![](https://img.shields.io/badge/Major-Security_Studies-2B4C7E?style=flat-square)
