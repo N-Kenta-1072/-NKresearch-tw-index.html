@@ -5,8 +5,8 @@
 ![](https://img.shields.io/badge/Degree-Master's_(M1)-4A5568?style=flat-square)
 
 **Graduate Student (M1)**  
-Takushoku University, Graduate School of International Cooperation  
-*Department of International Cooperation, Security Studies Course*
+Takushoku University, Graduate School for International Cooperation  
+*Division of Security Studies Course,地域研究B* 
 
 ---
 
